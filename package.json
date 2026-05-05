@@ -1,0 +1,24 @@
+{
+  "name": "multi-source-rag-node.js-cli-openai-supabase",
+  "version": "1.0.0",
+  "description": "A Node.js CLI-based Multi-source RAG system using Supabase pgvector to store embeddings, search across multiple data sources, and generate answers with an LLM.",
+  "homepage": "https://github.com/AymaneMehdi/Multi-Source-RAG-Node.js-CLI-OpenAI-Supabase#readme",
+  "bugs": {
+    "url": "https://github.com/AymaneMehdi/Multi-Source-RAG-Node.js-CLI-OpenAI-Supabase/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AymaneMehdi/Multi-Source-RAG-Node.js-CLI-OpenAI-Supabase.git"
+  },
+  "license": "ISC",
+  "author": "Aymane Mehdi",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "openai": "^6.36.0"
+  }
+}
