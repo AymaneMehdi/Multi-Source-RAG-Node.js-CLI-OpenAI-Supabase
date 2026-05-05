@@ -1,0 +1,4 @@
+RAG stands for Retrieval Augmented Generation.
+RAG retrieves relevant data before generating answers.
+Embeddings convert text into numerical vectors.
+Vector similarity helps find relevant information.
