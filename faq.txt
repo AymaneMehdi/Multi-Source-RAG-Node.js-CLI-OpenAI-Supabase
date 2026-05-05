@@ -1,0 +1,5 @@
+Question: What is the goal of RAG?
+Answer: The goal of RAG is to make AI answers more accurate by using external knowledge.
+
+Question: Does RAG train the model?
+Answer: No, RAG does not train the model. It gives the model context at runtime.
