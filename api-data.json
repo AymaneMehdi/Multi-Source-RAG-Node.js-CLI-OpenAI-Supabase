@@ -1,0 +1,10 @@
+[
+  {
+    "title": "Vector Database",
+    "content": "A vector database stores embeddings and allows fast similarity search."
+  },
+  {
+    "title": "Chunking",
+    "content": "Chunking is the process of splitting large text into smaller pieces."
+  }
+]
